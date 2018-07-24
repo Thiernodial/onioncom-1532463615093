@@ -1,0 +1,14 @@
+h1{
+    position:center;
+	color:green;
+	/*background-position:center;*/
+	float:left;
+
+}
+p{
+	color:blue;
+	float: left; 
+}
+h3{
+    float:left;
+}
